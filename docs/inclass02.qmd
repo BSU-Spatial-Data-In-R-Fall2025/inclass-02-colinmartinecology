@@ -1,6 +1,10 @@
 ---
 title: "assignmentXX"
 format: html
+author: 
+  name: colin martin
+  affiliation:
+    name: Boise State University
 ---
 
 # Your first Quarto Document
