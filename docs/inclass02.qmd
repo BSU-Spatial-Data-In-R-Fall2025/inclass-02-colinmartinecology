@@ -28,6 +28,15 @@ Save the document and commit your change
 
 Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
 
+
+```{r testing}
+#| echo: true
+#| eval: false
+
+04+21+1994
+
+```
+
 Save the document and commit your change.
 
 ## Render the document
