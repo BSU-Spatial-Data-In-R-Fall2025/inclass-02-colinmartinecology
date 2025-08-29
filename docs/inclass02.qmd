@@ -1,7 +1,12 @@
 ---
 title: "assignmentXX"
 format: html
+author: 
+  name: colin martin
+  affiliation:
+    name: Boise State University
 ---
+
 
 # Your first Quarto Document
 
@@ -13,13 +18,24 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+I grew up in [Maryland]{style="color: blue;"}. I use remote sensing data to research *rivers and wetlands*.
+
+
 
 Save the document and commit your change
 
 ## Write some code
 
 Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
+
+
+```{r testing}
+#| echo: true
+#| eval: false
+
+04+21+1994
+
+```
 
 Save the document and commit your change.
 
